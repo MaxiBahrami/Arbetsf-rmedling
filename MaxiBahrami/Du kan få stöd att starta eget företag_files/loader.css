@@ -1,0 +1,19 @@
+﻿.anpdm-loader {
+    background: none repeat scroll 0 0 #fafafa;
+    border-radius: 100%;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.2);
+    font-family: Calibri;
+    font-size: 13px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    z-index: 9999;
+}
+
+.anpdm-icon-loading {
+    background: url(../../../img/new/loader-36x36.gif) no-repeat scroll 0 0 transparent;
+    display: block;
+    height: 36px;
+    width: 36px;
+}

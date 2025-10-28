@@ -1,0 +1,145 @@
+﻿/*Used for FB like POP-UP*/
+
+.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-draggable
+, .ui-dialog.ui-widget.ui-widget-content {
+	padding: 0px;
+}
+
+.ui-widget-content {
+background: #ededed !important;
+}
+
+.ui-dialog {
+border: 0;
+}
+
+div {
+margin: 0;
+vertical-align: baseline;
+}
+
+.ui-dialog .ui-dialog-titlebar {
+position: relative;
+}
+
+.ui-widget-content .ui-widget-header {
+background: none !important;
+border: none !important;
+}
+
+.ui-dialog .ui-dialog-titlebar {
+cursor: default;
+padding: 0 !important;
+}
+
+.ui-widget-header {
+color: #FFFFFF;
+font-weight: bold;
+}
+
+.ui-widget-header span {
+font-size: 14px;
+font-weight: normal;
+}
+
+.ui-dialog-title {
+font-family: 'titilliumtext22llight', Calibri, Arial, Helvetica, sans-serif !important;
+color: #333333;
+font-size: 18px;
+text-transform: uppercase;
+font-weight: normal;
+margin-top: 10px;
+}
+
+.ui-dialog-title {
+margin-left: 40px;
+color: #ececec !important;
+background: #333333;
+font-family: 'titilliumtext22llight', Calibri, Arial, Helvetica, sans-serif;
+font-size: 21px !important;
+line-height: 20px;
+margin-bottom: 0;
+margin-left: 0 !important;
+margin-right: 0;
+margin-top: 0 !important;
+padding: 20px 0;
+text-align: center !important;
+font-weight: normal;
+text-transform: uppercase;
+position: relative;
+width: 100%;
+}
+
+span {
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+
+.ui-dialog .ui-dialog-titlebar-close {
+position: absolute;
+top: 5px;
+right: 5px;
+z-index: 9999;
+}
+
+.ui-dialog a {
+    text-decoration: none;
+}
+.webversionoverlaycontainer .webversionoverlayFBLike{
+	width:480px; 
+	height:270px; 
+}
+.webversionoverlaycontainer div.webversioncloseBlack {
+	width: 30px;
+	height: 30px;
+	background: transparent url(../images/webversion/closeBlack.png) no-repeat;	
+	margin-right: 8px;
+	margin-left:auto;
+	margin-top:3px;
+	cursor:pointer;	
+
+a {
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+.webversionoverlaycontainer .webversionoverlayFBLike{
+	width:480px; 
+	height:270px; 
+}
+.webversionoverlaycontainer div.webversioncloseBlack {
+	width: 30px;
+	height: 30px;
+	background: transparent url(../images/webversion/closeBlack.png) no-repeat;	
+	margin-right: 8px;
+	margin-left:auto;
+	margin-top:3px;
+	cursor:pointer;	
+}
+
+a {
+text-decoration: none;
+color: #333333;
+cursor: pointer;
+-webkit-appearance: none !important;
+outline: none;
+}
+
+.ui-widget-content .ui-widget-content {
+background: none !important;
+box-shadow: none !important;
+}
+
+.ui-dialog-titlebar-close .ui-icon {
+width: 20px;
+height: 20px;
+background: transparent url(../img/new/delete-20x20.png) no-repeat;
+}
+
